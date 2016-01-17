@@ -29,7 +29,7 @@ Vagrant.configure("2") do |config|
   config.vm.synced_folder "./", "/vagrant"
   
   # Forwarded ports.
-  config.vm.network :forwarded_port, guest: 2000, host: 2000
+  config.vm.network :forwarded_port, guest: 4000, host: 4000
 
   # Remote access.
   config.ssh.forward_agent = true
