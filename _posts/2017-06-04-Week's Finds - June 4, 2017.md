@@ -1,4 +1,9 @@
-# Week's finds - June 4, 2017
+---
+layout: post
+title: Week's finds - June 4, 2017
+tags: [finds, links]
+---
+
 
 [Compress to impress](http://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas){:target="_blank"}   
 Eugene Wei dissects some of the strategies used by leaders to ensure the integrity of their messages inside a large organization. The first link of this week is also on Amazon, this time focusing on Bezos' letter to shareholders. 
