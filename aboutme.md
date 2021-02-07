@@ -1,17 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: The basics
+
 ---
 
-**Work**: Since 2016, I have been working as a data scientist at [Capital One].
+## Introduction
 
-**Education**: I finished my PhD in Condensed Matter Physics from the [Quantum Materials Group][cqm] at the University of Toronto in 2016. My thesis focused developing parametric models for materials to understand their electronic and magnetic properties. Read my papers via [Google Scholar][goog-sch]. 
+I am a physicist turned data scientist interested in a whole gamut of things. Currently, I am most passionate about melding machine learning and design to build applications to aid complex problem-solving.  
 
-**Science and Technology Education**: Outside of work, I am passionate about science and technology education. Some of the organizations I have been involved with are [SteamLabs][steamlabs], [Action Potential Lab][apl], [Math Circles][math-circ], 
-[First Robotics][first-rob], and [Ladies Learning Code][llc]
+At present, I am a Senior Data Scientist at [PagerDuty][PD]. Prior to that, I was at [Capital One Canada][Capital One], where I worked on analytical strategies to tackle credit card fraud.
 
-**Hobbies**: Cycling, Reading
+At my core, I am deeply curious about understanding how systems work and then using that understanding to further shape system behaviour. It was this curiosity that led me to pursue Physics, where I delved into understanding interacting many-particle systems as part of my Ph.D. Now I bring that scientific temperament and the aptitude to pick up varied technical machinery to bear on problems in technology.
+
+For more, check out my [LinkedIn][LinkedIn] or my [resume][resume].
+
+**Science and Technology Education**: Outside of work, I am passionate about science and technology education. While the pandemic has dampened my volunteering, I thoroughly enjoyed contributing to the missions of [SteamLabs][steamlabs], [Action Potential Lab][apl], [Math Circles][math-circ],[First Robotics][first-rob], and [Ladies Learning Code][llc].
+
+**Hobbies**: If it is ☃️, you can find me practising my mandolin or reading a book.  If it is 🌞, I am usually on my 🚲
 
 [Capital One]: https://capitalone.ca
 [cqm]: http://www.cqm-uoft.ca/junior-members/
@@ -21,3 +26,6 @@ subtitle: The basics
 [math-circ]: http://www.torontomathcircles.ca/home.html
 [first-rob]: https://hollandbloorview.ca/programsandservices/therapeuticrecreationandlifeskills/robotics
 [llc]: http://ladieslearningcode.com/
+[resume]: http://vijayshankarv.github.io/Resume
+[PD]: https://pagerduty.com
+[LinkedIn]: https://ca.linkedin.com/vijayshankarv0
