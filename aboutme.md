@@ -4,8 +4,6 @@ title: About me
 
 ---
 
-## Introduction
-
 I am a physicist turned data scientist interested in a whole gamut of things. Currently, I am most passionate about melding machine learning and design to build applications to aid complex problem-solving.  
 
 At present, I am a Senior Data Scientist at [PagerDuty][PD]. Prior to that, I was at [Capital One Canada][Capital One], where I worked on analytical strategies to tackle credit card fraud.
@@ -16,7 +14,7 @@ For more, check out my [LinkedIn][LinkedIn] or my [resume][resume].
 
 **Science and Technology Education**: Outside of work, I am passionate about science and technology education. While the pandemic has dampened my volunteering, I thoroughly enjoyed contributing to the missions of [SteamLabs][steamlabs], [Action Potential Lab][apl], [Math Circles][math-circ],[First Robotics][first-rob], and [Ladies Learning Code][llc].
 
-**Hobbies**: If it is ☃️, you can find me practising my mandolin or reading a book.  If it is 🌞, I am usually on my 🚲
+**Hobbies**: If it is ☃️, you can find me practising my mandolin or reading a 📖.  If it is 🌞, I am usually on my 🚲
 
 [Capital One]: https://capitalone.ca
 [cqm]: http://www.cqm-uoft.ca/junior-members/
@@ -26,6 +24,6 @@ For more, check out my [LinkedIn][LinkedIn] or my [resume][resume].
 [math-circ]: http://www.torontomathcircles.ca/home.html
 [first-rob]: https://hollandbloorview.ca/programsandservices/therapeuticrecreationandlifeskills/robotics
 [llc]: http://ladieslearningcode.com/
-[resume]: http://vijayshankarv.github.io/Resume
+[resume]: https://vijayshankarv.github.io/resume/VijayShankarV.pdf
 [PD]: https://pagerduty.com
-[LinkedIn]: https://ca.linkedin.com/vijayshankarv0
+[LinkedIn]: https://www.linkedin.com/in/vijayshankarv0
